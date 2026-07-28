@@ -102,6 +102,16 @@
     margin:20px 0;
 }
 
+.official{
+    background:#dae4e8;
+
+    border-left:5px solid #71aac5;
+
+    padding:15px;
+
+    margin:20px 0;
+}
+
 /* 문단 */
 
 .section{
